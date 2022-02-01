@@ -1,7 +1,7 @@
 
->📋  Accompanying code for "A U-Net model for Local Brain Age"
+>📋  Accompanying code for "Matrix Inversion free variational inference in Conditional Student's T Processes"
 
-# A U-Net model for Local Brain Age
+# Matrix Inversion free variational inference in Conditional Student's T Processes
 
 This repository is the official implementation of [Matrix Inversion free variational inference in Conditional Student's T Processes](https://openreview.net/pdf?id=jLLR71k9Hsi). 
 
