@@ -1,5 +1,5 @@
 
-# Under construction
+## Under construction -- updated GPflow implementation will shortly follow.
 
 >📋  Accompanying code for "Matrix Inversion free variational inference in Conditional Student's T Processes"
 
